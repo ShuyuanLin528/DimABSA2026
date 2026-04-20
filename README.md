@@ -24,6 +24,3 @@ In this project, I:
 - model predictions and evaluation examples
 - error analysis and visualization
 - final report / summary materials
-
-## Project Status
-This repository is being updated to better document the final version of the project, including code organization, selected results, and project summary.
