@@ -1,4 +1,4 @@
-# Dimensional Aspect-Based Sentiment Analysis Thesis Project
+# Dimensional Aspect-Based Sentiment Analysis Capstone Project
 
 ## Project Overview
 This repository contains my undergraduate final-year thesis project on Dimensional Aspect-Based Sentiment Analysis (DimABSA). The project focuses on multilingual aspect-level sentiment analysis, including structured extraction and continuous、sentiment prediction.
@@ -27,6 +27,3 @@ In this project, I:
 
 ## Project Status
 This repository is being updated to better document the final version of the project, including code organization, selected results, and project summary.
-
-## Contact
-For academic or admissions review purposes, this repository serves as a concise record of my final-year research project.
